@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: self-hosted-areen
+  name: areen
 
 steps:
 - task: Maven@3
